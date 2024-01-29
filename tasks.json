@@ -1,0 +1,26 @@
+[
+    {
+        "task": "Lavarsi i denti",
+        "done": true
+    },
+    {
+        "task": "Fare la doccia",
+        "done": false
+    },
+    {
+        "task": "Pulire la camera",
+        "done": false
+    },
+    {
+        "task": "Lavare i piatti",
+        "done": false
+    },
+    {
+        "task": "Preparare la borsa",
+        "done": false
+    },
+    {
+        "task": "Preparare il pranzo",
+        "done": true
+    }
+]
